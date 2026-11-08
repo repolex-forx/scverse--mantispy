@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "mantispy",
+  "versions": [
+    {
+      "commit": "c28373f7b32449d0fef7c92076957265b76feb61",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:31:56.080220+00:00"
+    }
+  ]
+}
