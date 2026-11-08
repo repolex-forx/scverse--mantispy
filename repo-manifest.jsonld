@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/mantispy/commit/c28373f7b32449d0fef7c92076957265b76feb61",
       "git:hexsha": "c28373f7b32449d0fef7c92076957265b76feb61",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scverse/mantispy/commit/f33deb25be04df89f091c825948892f29cf0997e",
